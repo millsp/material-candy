@@ -30,10 +30,10 @@
 
 ## 📜 About
 
-**Material Candy** is a delightful material dark theme. It's designed to
+**Material Candy** is a delightful material dark theme that's designed to
 minimize eye-strain and promote better code comprehension. Its carefully
-selected palette will make your eyes so comfortable. Its candy colors will
-uplift your mood and keep you happy.
+selected palette of sweet candy colors will uplift your mood and make you a
+happier developer.
 
 ## 🍩 Features
 
