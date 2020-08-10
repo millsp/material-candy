@@ -21,7 +21,8 @@
 		]
 	},
 	"devDependencies": {
-		"typescript": "^3.9.0"
+		"typescript": "^3.9.0",
+		"vsce": "^1.77.0"
 	},
 	"displayName": "Material Candy",
 	"engines": {

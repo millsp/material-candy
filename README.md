@@ -2,7 +2,7 @@
   <img align="left"src="https://raw.githubusercontent.com/millsp/material-candy/master/.github/blank.png" width="100">
   <img align="right"src="https://raw.githubusercontent.com/millsp/material-candy/master/.github/blank.png" width="100">
   <a href="https://github.com/millsp/material-candy">
-    <img align="left" alt="logo" title="material-candy" src="https://raw.githubusercontent.com/millsp/material-candy/master/assets/logo.svg" width="100" alt="Logo">
+    <img align="left" alt="logo" title="material-candy" src="https://raw.githubusercontent.com/millsp/material-candy/master/assets/icon.svg" width="100" alt="Logo">
   </a>
   <h1 align="left">Material Candy Theme</h1>
   <h4 align="left">Uplift your mood, stay happy and focused.</h4>
@@ -89,7 +89,7 @@ uplift your mood and keep you happy.
 ## 🍩 Features
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/millsp/ts-toolbelt/master/screenshots/typescript.png" id="demo" width="750px">
+  <img src="https://raw.githubusercontent.com/millsp/material-candy/master/screenshots/typescript.png" id="demo" width="750px">
 <p align="center">
 
 ## 🏁 Getting Started
