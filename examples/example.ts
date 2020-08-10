@@ -16,10 +16,10 @@ export class Candy {
 
 	iInstall(iLove: boolean) {
 		if (iLove) {
-			return "ext install material-candy"
-		};
+			return "ext install material-candy";
+		}
 
-		return undefined
+		return undefined;
 	}
 
 	iLove() {
