@@ -14,7 +14,15 @@ export class Candy {
 		console.log({ foo: flavor, bar: color });
 	}
 
-	saySomething() {
-		console.log("I ❤️ Candy")
+	iInstall(iLove: boolean) {
+		if (iLove) {
+			return "ext install material-candy"
+		};
+
+		return undefined
+	}
+
+	iLove() {
+		console.log("I ❤️ Candy");
 	}
 }

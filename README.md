@@ -48,7 +48,7 @@ uplift your mood and keep you happy.
 Launch VS Code Quick Open (`Ctrl+P`), paste the following command, and press enter.
 
 ```bash
-ext install dark-plus-material
+ext install material-candy
 ```
 
 ## 🎁 Contributing
@@ -79,15 +79,9 @@ Contributions are what make the open source community such an amazing place to l
    git commit -m "feat(name): Added this CoolFeature"
    ```
 
-5. [Run the tests](#-running-tests)
+5. Push your changes
 
-6. Push your changes
-
-   ```sh
-   npm run release -- --no-tags
-   ```
-
-7. Open a pull request
+6. Open a pull request
 
 ## 🔮 What's next
 
