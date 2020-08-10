@@ -54,5 +54,8 @@
 		"id": "f64100a7-e21c-4adf-b6c3-186012f06a5b",
 		"publisherDisplayName": "Pierre-Antoine Urvoy",
 		"publisherId": "20bd0540-cd3e-4279-8a80-954786cf1b78"
+	},
+	"scripts": {
+		"publish": "npx vsce publish"
 	}
 }
