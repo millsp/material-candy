@@ -67,13 +67,13 @@
 		{
 			"scope": "entity.name.tag.css",
 			"settings": {
-				"foreground": "#D1BA54"
+				"foreground": "#DDC65F"
 			}
 		},
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#4BB6C0"
+				"foreground": "#59BFC9"
 			}
 		},
 		{
@@ -89,7 +89,7 @@
 				"entity.other.attribute-name.scss"
 			],
 			"settings": {
-				"foreground": "#D1BA54"
+				"foreground": "#DDC65F"
 			}
 		},
 		{
@@ -191,7 +191,7 @@
 		{
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
-				"foreground": "#4BB6C0"
+				"foreground": "#59BFC9"
 			}
 		},
 		{
@@ -278,7 +278,7 @@
 				"source.coffee.embedded"
 			],
 			"settings": {
-				"foreground": "#4BB6C0"
+				"foreground": "#59BFC9"
 			}
 		},
 		{
@@ -334,7 +334,7 @@
 		{
 			"scope": "support.function.git-rebase",
 			"settings": {
-				"foreground": "#4BB6C0"
+				"foreground": "#59BFC9"
 			}
 		},
 		{

@@ -5,7 +5,7 @@
  */
 export class Candy {
 	/**
-	 * Creates an instance of Candy.
+	 * Creates an instance of Candy
 	 *
 	 * @param {string} flavor
 	 * @param {string} color
