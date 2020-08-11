@@ -81,7 +81,7 @@
 				"entity.name.operator"
 			],
 			"settings": {
-				"foreground": "#CE3F5E",
+				"foreground": "#C34661",
 				"fontStyle": "bold"
 			}
 		},
@@ -192,7 +192,7 @@
 		}
 	],
 	"semanticTokenColors": {
-		"newOperator":"#CE3F5E",
+		"newOperator":"#C34661",
 		"stringLiteral":"#E06C58",
 		"customLiteral": "#C5B364",
 		"numberLiteral": "#B5CE89",
