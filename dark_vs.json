@@ -133,7 +133,7 @@
 		{
 			"scope": "markup.deleted",
 			"settings": {
-				"foreground": "#E06C58"
+				"foreground": "#CC6553"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 		{
 			"scope": "markup.inline.raw",
 			"settings": {
-				"foreground": "#E06C58"
+				"foreground": "#CC6553"
 			}
 		},
 		{
@@ -179,7 +179,7 @@
 		{
 			"scope": "meta.preprocessor.string",
 			"settings": {
-				"foreground": "#E06C58"
+				"foreground": "#CC6553"
 			}
 		},
 		{
@@ -227,19 +227,19 @@
 				"meta.embedded.assembly"
 			],
 			"settings": {
-				"foreground": "#E06C58"
+				"foreground": "#CC6553"
 			}
 		},
 		{
 			"scope": "string.tag",
 			"settings": {
-				"foreground": "#E06C58"
+				"foreground": "#CC6553"
 			}
 		},
 		{
 			"scope": "string.value",
 			"settings": {
-				"foreground": "#E06C58"
+				"foreground": "#CC6553"
 			}
 		},
 		{
@@ -364,7 +364,7 @@
 	],
 	"semanticTokenColors": {
 		"newOperator": "#BBBBBB",
-		"stringLiteral": "#E06C58",
+		"stringLiteral": "#CC6553",
 		"customLiteral": "#BBBBBB",
 		"numberLiteral": "#B5CE89",
 	}

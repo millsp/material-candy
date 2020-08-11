@@ -128,7 +128,7 @@
 				"support.constant.color"
 			],
 			"settings": {
-				"foreground": "#E06C58"
+				"foreground": "#CC6553"
 			}
 		},
 		{
@@ -143,7 +143,7 @@
 				"support.other.parenthesis.regexp"
 			],
 			"settings": {
-				"foreground": "#E06C58"
+				"foreground": "#CC6553"
 			}
 		},
 		{
@@ -193,7 +193,7 @@
 	],
 	"semanticTokenColors": {
 		"newOperator":"#C34661",
-		"stringLiteral":"#E06C58",
+		"stringLiteral":"#CC6553",
 		"customLiteral": "#C2B062",
 		"numberLiteral": "#B5CE89",
 	}
