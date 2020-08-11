@@ -4,14 +4,14 @@
   <a href="https://github.com/millsp/material-candy">
     <img align="left" alt="logo" title="material-candy" src="https://raw.githubusercontent.com/millsp/material-candy/master/assets/icon.png" width="100" alt="Logo">
   </a>
+  <img align="left" src="https://raw.githubusercontent.com/millsp/ts-toolbelt/master/.github/blank.png" width="10", height="100">
   <h1 align="left">Material Candy Theme</h1>
-  <h4 align="left">Uplift your mood, stay happy and focused.</h4>
+  <h4 align="left">A VSCode theme to uplift your mood, stay happy and focused.</h4>
 </div>
-<br>
-<br>
 <p align="center">
-  <a href="#demo">🎮 View Demo</a>
-  ·
+  <img src="https://raw.githubusercontent.com/millsp/material-candy/master/screenshots/typescript.png" id="demo" width="750px">
+<p align="center">
+<p align="center">
   <a href="https://github.com/millsp/material-candy/issues/new?template=---bug-report.md" alt="Bug Report">🐞 Report Bug</a>
   ·
   <a href="https://github.com/millsp/material-candy/issues/new?template=---feature-request.md" alt="Request Feature">🍩 Request Feature</a>
@@ -22,11 +22,8 @@
 ## Table of Contents
 
 * [📜 About](#-about)
-* [🍩 Features](#-features)
 * [🏁 Getting started](#-getting-started)
 * [🎁 Contributing](#-contributing)
-* [🔮 What's next](#-whats-next)
-* [🙏 Acknowledgements](#-acknowledgements)
 
 ## 📜 About
 
@@ -34,12 +31,6 @@
 minimize eye-strain and promote better code comprehension. Its carefully
 selected palette of sweet candy colors will uplift your mood and make you a
 happier developer.
-
-## 🍩 Features
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/millsp/material-candy/master/screenshots/typescript.png" id="demo" width="750px">
-<p align="center">
 
 ## 🏁 Getting Started
 
@@ -82,12 +73,6 @@ Contributions are what make the open source community such an amazing place to l
 5. Push your changes
 
 6. Open a pull request
-
-## 🔮 What's next
-
-## 🙏 Acknowledgements
-
-Many, many thanks to all the [contributors](https://github.com/millsp/material-candy/graphs/contributors) and:
 
 ## 💟 Friendly Projects
 
