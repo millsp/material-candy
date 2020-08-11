@@ -1,13 +1,10 @@
-<div>
-  <img align="left"src="https://raw.githubusercontent.com/millsp/material-candy/master/.github/blank.png" width="100">
-  <img align="right"src="https://raw.githubusercontent.com/millsp/material-candy/master/.github/blank.png" width="100">
+<p align="center">
   <a href="https://github.com/millsp/material-candy">
-    <img align="left" alt="logo" title="material-candy" src="https://raw.githubusercontent.com/millsp/material-candy/master/assets/icon.png" width="100" alt="Logo">
+    <img alt="logo" title="material-candy" src="https://raw.githubusercontent.com/millsp/material-candy/master/assets/icon.png" width="100" alt="Logo">
   </a>
-  <img align="left" src="https://raw.githubusercontent.com/millsp/ts-toolbelt/master/.github/blank.png" width="10", height="100">
-  <h1 align="left">Material Candy Theme</h1>
-  <h4 align="left">A VSCode theme to uplift your mood, stay happy and focused.</h4>
-</div>
+  <h1 align="center">Material Candy Theme</h1>
+  <h4 align="center">A vscode theme to uplift your mood, stay happy and focused.</h4>
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/millsp/material-candy/master/screenshots/typescript.png" id="demo" width="750px">
 <p align="center">
