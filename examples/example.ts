@@ -1,16 +1,10 @@
-/**
- * Example JSDoc
- * 
- * @class Candy
- */
-export class Candy {
+export class Candy<Flavor, Color> {
 	/**
-	 * Creates an instance of Candy
-	 *
-	 * @param {string} flavor
-	 * @param {string} color
+	 * Creates some Candy
+	 * @param flavor your favorite taste
+	 * @param color your preferred color
 	 */
-	public constructor(flavor: string, color: string) {
+	public constructor(flavor: Flavor, color: Color) {
 		console.log({ foo: flavor, bar: color });
 	}
 
