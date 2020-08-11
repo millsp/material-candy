@@ -12,7 +12,7 @@
 				"entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
 			],
 			"settings": {
-				"foreground": "#DDC65F"
+				"foreground": "#E4CC65"
 			}
 		},
 		{
@@ -94,7 +94,7 @@
 				"entity.name.variable"
 			],
 			"settings": {
-				"foreground": "#59BFC9"
+				"foreground": "#64BDC5"
 			}
 		},
 		{
@@ -104,7 +104,7 @@
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#59BFC9",
+				"foreground": "#64BDC5",
 			}
 		},
 		{
@@ -113,7 +113,7 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#59BFC9"
+				"foreground": "#64BDC5"
 			}
 		},
 		{
@@ -163,13 +163,13 @@
 				"keyword.control.anchor.regexp"
 			],
 			"settings": {
-				"foreground": "#DDC65F"
+				"foreground": "#E4CC65"
 			}
 		},
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#DDC65F"
+				"foreground": "#E4CC65"
 			}
 		},
 		{
@@ -181,7 +181,7 @@
 		{
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#DDC65F"
+				"foreground": "#E4CC65"
 			}
 		},
 		{
@@ -194,7 +194,7 @@
 	"semanticTokenColors": {
 		"newOperator":"#CE3F5E",
 		"stringLiteral":"#E06C58",
-		"customLiteral": "#DDC65F",
+		"customLiteral": "#E4CC65",
 		"numberLiteral": "#B5CE89",
 	}
 }
