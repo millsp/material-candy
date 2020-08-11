@@ -8,7 +8,7 @@
 				"source.groovy.embedded"
 			],
 			"settings": {
-				"foreground": "#D4D4D4"
+				"foreground": "#BBBBBB"
 			}
 		},
 		{
@@ -265,7 +265,7 @@
 				"meta.template.expression"
 			],
 			"settings": {
-				"foreground": "#D4D4D4"
+				"foreground": "#BBBBBB"
 			}
 		},
 		{
@@ -296,7 +296,7 @@
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#D4D4D4"
+				"foreground": "#BBBBBB"
 			}
 		},
 		{
@@ -351,7 +351,7 @@
 				"storage.modifier.package.java"
 			],
 			"settings": {
-				"foreground": "#D4D4D4"
+				"foreground": "#BBBBBB"
 			}
 		},
 		{
@@ -363,9 +363,9 @@
 		}
 	],
 	"semanticTokenColors": {
-		"newOperator": "#D4D4D4",
+		"newOperator": "#BBBBBB",
 		"stringLiteral": "#E06C58",
-		"customLiteral": "#D4D4D4",
+		"customLiteral": "#BBBBBB",
 		"numberLiteral": "#B5CE89",
 	}
 }

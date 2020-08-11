@@ -2,7 +2,7 @@
 	"$schema": "vscode://schemas/color-theme",
 	"colors": {
 		"editor.background": "#181818",
-		"editor.foreground": "#D4D4D4",
+		"editor.foreground": "#BBBBBB",
 		"editor.inactiveSelectionBackground": "#3A3D41",
 		"editorIndentGuide.background": "#404040",
 		"editorIndentGuide.activeBackground": "#707070",
