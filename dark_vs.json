@@ -38,7 +38,7 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#449CD2"
+				"foreground": "#5F91C0"
 			}
 		},
 		{
@@ -61,7 +61,7 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#449CD2"
+				"foreground": "#5F91C0"
 			}
 		},
 		{
@@ -108,14 +108,14 @@
 			"scope": "markup.bold",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#449CD2"
+				"foreground": "#5F91C0"
 			}
 		},
 		{
 			"scope": "markup.heading",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#449CD2"
+				"foreground": "#5F91C0"
 			}
 		},
 		{
@@ -139,7 +139,7 @@
 		{
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#449CD2"
+				"foreground": "#5F91C0"
 			}
 		},
 		{
@@ -173,7 +173,7 @@
 				"entity.name.function.preprocessor"
 			],
 			"settings": {
-				"foreground": "#449CD2"
+				"foreground": "#5F91C0"
 			}
 		},
 		{
@@ -197,19 +197,19 @@
 		{
 			"scope": "meta.diff.header",
 			"settings": {
-				"foreground": "#449CD2"
+				"foreground": "#5F91C0"
 			}
 		},
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "#449CD2"
+				"foreground": "#5F91C0"
 			}
 		},
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#449CD2"
+				"foreground": "#5F91C0"
 			}
 		},
 		{
@@ -218,7 +218,7 @@
 				"keyword.operator.noexcept"
 			],
 			"settings": {
-				"foreground": "#449CD2"
+				"foreground": "#5F91C0"
 			}
 		},
 		{
@@ -256,7 +256,7 @@
 				"punctuation.section.embedded"
 			],
 			"settings": {
-				"foreground": "#449CD2"
+				"foreground": "#5F91C0"
 			}
 		},
 		{
@@ -284,13 +284,13 @@
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#449CD2"
+				"foreground": "#5F91C0"
 			}
 		},
 		{
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#449CD2"
+				"foreground": "#5F91C0"
 			}
 		},
 		{
@@ -313,7 +313,7 @@
 				"keyword.operator.wordlike"
 			],
 			"settings": {
-				"foreground": "#449CD2"
+				"foreground": "#5F91C0"
 			}
 		},
 		{
@@ -328,7 +328,7 @@
 				"punctuation.section.embedded.end.php"
 			],
 			"settings": {
-				"foreground": "#449CD2"
+				"foreground": "#5F91C0"
 			}
 		},
 		{
@@ -358,7 +358,7 @@
 			"name": "this.self",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#449CD2"
+				"foreground": "#5F91C0"
 			}
 		}
 	],
