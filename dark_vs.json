@@ -67,7 +67,7 @@
 		{
 			"scope": "entity.name.tag.css",
 			"settings": {
-				"foreground": "#D8C364"
+				"foreground": "#CFBC64"
 			}
 		},
 		{
@@ -89,7 +89,7 @@
 				"entity.other.attribute-name.scss"
 			],
 			"settings": {
-				"foreground": "#D8C364"
+				"foreground": "#CFBC64"
 			}
 		},
 		{
