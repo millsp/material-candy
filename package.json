@@ -1,7 +1,7 @@
 {
 	"name": "material-candy",
 	"description": "Uplift your mood, keep happy and focused.",
-	"version": "0.0.9",
+	"version": "0.0.10",
 	"author": {
 		"name": "Pierre-Antoine Mills"
 	},
@@ -56,6 +56,6 @@
 		"publisherId": "20bd0540-cd3e-4279-8a80-954786cf1b78"
 	},
 	"scripts": {
-		"release": "npx vsce publish"
+		"release": "npx vsce publish; git push"
 	}
 }
