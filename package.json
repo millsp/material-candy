@@ -56,6 +56,6 @@
 		"publisherId": "20bd0540-cd3e-4279-8a80-954786cf1b78"
 	},
 	"scripts": {
-		"publish": "npx vsce publish"
+		"release": "npx vsce publish"
 	}
 }
