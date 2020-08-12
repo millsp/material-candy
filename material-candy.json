@@ -12,7 +12,7 @@
 				"entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
 			],
 			"settings": {
-				"foreground": "#CAB96D"
+				"foreground": "#C0B069"
 			}
 		},
 		{
@@ -81,7 +81,7 @@
 				"entity.name.operator"
 			],
 			"settings": {
-				"foreground": "#B3485F",
+				"foreground": "#B1465D",
 				"fontStyle": "bold"
 			}
 		},
@@ -94,7 +94,7 @@
 				"entity.name.variable"
 			],
 			"settings": {
-				"foreground": "#67C0C8"
+				"foreground": "#69B0C9"
 			}
 		},
 		{
@@ -104,7 +104,7 @@
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#67C0C8",
+				"foreground": "#69B0C9",
 			}
 		},
 		{
@@ -113,7 +113,7 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#67C0C8"
+				"foreground": "#69B0C9"
 			}
 		},
 		{
@@ -163,13 +163,13 @@
 				"keyword.control.anchor.regexp"
 			],
 			"settings": {
-				"foreground": "#CAB96D"
+				"foreground": "#C0B069"
 			}
 		},
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#CAB96D"
+				"foreground": "#C0B069"
 			}
 		},
 		{
@@ -181,7 +181,7 @@
 		{
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#CAB96D"
+				"foreground": "#C0B069"
 			}
 		},
 		{
@@ -192,9 +192,9 @@
 		}
 	],
 	"semanticTokenColors": {
-		"newOperator":"#B3485F",
+		"newOperator":"#B1465D",
 		"stringLiteral":"#C77769",
-		"customLiteral": "#CAB96D",
+		"customLiteral": "#C0B069",
 		"numberLiteral": "#B5CE89",
 	}
 }
