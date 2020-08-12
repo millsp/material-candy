@@ -38,7 +38,7 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#5F91C0"
+				"foreground": "#59a3e9"
 			}
 		},
 		{
@@ -61,19 +61,19 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#5F91C0"
+				"foreground": "#59a3e9"
 			}
 		},
 		{
 			"scope": "entity.name.tag.css",
 			"settings": {
-				"foreground": "#BEAF69"
+				"foreground": "#ceb95e"
 			}
 		},
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#69B0C9"
+				"foreground": "#5fc1df"
 			}
 		},
 		{
@@ -89,7 +89,7 @@
 				"entity.other.attribute-name.scss"
 			],
 			"settings": {
-				"foreground": "#BEAF69"
+				"foreground": "#ceb95e"
 			}
 		},
 		{
@@ -108,14 +108,14 @@
 			"scope": "markup.bold",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#5F91C0"
+				"foreground": "#59a3e9"
 			}
 		},
 		{
 			"scope": "markup.heading",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#5F91C0"
+				"foreground": "#59a3e9"
 			}
 		},
 		{
@@ -133,13 +133,13 @@
 		{
 			"scope": "markup.deleted",
 			"settings": {
-				"foreground": "#C77769"
+				"foreground": "#df795f"
 			}
 		},
 		{
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#5F91C0"
+				"foreground": "#59a3e9"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 		{
 			"scope": "markup.inline.raw",
 			"settings": {
-				"foreground": "#C77769"
+				"foreground": "#df795f"
 			}
 		},
 		{
@@ -173,13 +173,13 @@
 				"entity.name.function.preprocessor"
 			],
 			"settings": {
-				"foreground": "#5F91C0"
+				"foreground": "#59a3e9"
 			}
 		},
 		{
 			"scope": "meta.preprocessor.string",
 			"settings": {
-				"foreground": "#C77769"
+				"foreground": "#df795f"
 			}
 		},
 		{
@@ -191,25 +191,25 @@
 		{
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
-				"foreground": "#69B0C9"
+				"foreground": "#5fc1df"
 			}
 		},
 		{
 			"scope": "meta.diff.header",
 			"settings": {
-				"foreground": "#5F91C0"
+				"foreground": "#59a3e9"
 			}
 		},
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "#5F91C0"
+				"foreground": "#59a3e9"
 			}
 		},
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#5F91C0"
+				"foreground": "#df5f75"
 			}
 		},
 		{
@@ -218,7 +218,7 @@
 				"keyword.operator.noexcept"
 			],
 			"settings": {
-				"foreground": "#5F91C0"
+				"foreground": "#59a3e9"
 			}
 		},
 		{
@@ -227,19 +227,19 @@
 				"meta.embedded.assembly"
 			],
 			"settings": {
-				"foreground": "#C77769"
+				"foreground": "#df795f"
 			}
 		},
 		{
 			"scope": "string.tag",
 			"settings": {
-				"foreground": "#C77769"
+				"foreground": "#df795f"
 			}
 		},
 		{
 			"scope": "string.value",
 			"settings": {
-				"foreground": "#C77769"
+				"foreground": "#df795f"
 			}
 		},
 		{
@@ -256,7 +256,7 @@
 				"punctuation.section.embedded"
 			],
 			"settings": {
-				"foreground": "#5F91C0"
+				"foreground": "#df5f75"
 			}
 		},
 		{
@@ -278,19 +278,19 @@
 				"source.coffee.embedded"
 			],
 			"settings": {
-				"foreground": "#69B0C9"
+				"foreground": "#5fc1df"
 			}
 		},
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#5F91C0"
+				"foreground": "#59a3e9"
 			}
 		},
 		{
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#5F91C0"
+				"foreground": "#59a3e9"
 			}
 		},
 		{
@@ -313,7 +313,7 @@
 				"keyword.operator.wordlike"
 			],
 			"settings": {
-				"foreground": "#5F91C0"
+				"foreground": "#59a3e9"
 			}
 		},
 		{
@@ -328,13 +328,13 @@
 				"punctuation.section.embedded.end.php"
 			],
 			"settings": {
-				"foreground": "#5F91C0"
+				"foreground": "#59a3e9"
 			}
 		},
 		{
 			"scope": "support.function.git-rebase",
 			"settings": {
-				"foreground": "#69B0C9"
+				"foreground": "#5fc1df"
 			}
 		},
 		{
@@ -358,13 +358,13 @@
 			"name": "this.self",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#5F91C0"
+				"foreground": "#59a3e9"
 			}
 		}
 	],
 	"semanticTokenColors": {
 		"newOperator": "#BBBBBB",
-		"stringLiteral": "#C77769",
+		"stringLiteral": "#df795f",
 		"customLiteral": "#BBBBBB",
 		"numberLiteral": "#B5CE89",
 	}

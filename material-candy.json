@@ -12,7 +12,7 @@
 				"entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
 			],
 			"settings": {
-				"foreground": "#BEAF69"
+				"foreground": "#ceb95e"
 			}
 		},
 		{
@@ -53,7 +53,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#45AD90"
+				"foreground": "#54c0a1"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#45AD90"
+				"foreground": "#54c0a1"
 			}
 		},
 		{
@@ -81,7 +81,7 @@
 				"entity.name.operator"
 			],
 			"settings": {
-				"foreground": "#B1465D",
+				"foreground": "#df5f74",
 				"fontStyle": "bold"
 			}
 		},
@@ -94,7 +94,7 @@
 				"entity.name.variable"
 			],
 			"settings": {
-				"foreground": "#69B0C9"
+				"foreground": "#5fc1df"
 			}
 		},
 		{
@@ -104,7 +104,7 @@
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#69B0C9",
+				"foreground": "#5fc1df",
 			}
 		},
 		{
@@ -113,7 +113,7 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#69B0C9"
+				"foreground": "#5fc1df"
 			}
 		},
 		{
@@ -128,7 +128,7 @@
 				"support.constant.color"
 			],
 			"settings": {
-				"foreground": "#C77769"
+				"foreground": "#df795f"
 			}
 		},
 		{
@@ -143,7 +143,7 @@
 				"support.other.parenthesis.regexp"
 			],
 			"settings": {
-				"foreground": "#C77769"
+				"foreground": "#df795f"
 			}
 		},
 		{
@@ -163,25 +163,25 @@
 				"keyword.control.anchor.regexp"
 			],
 			"settings": {
-				"foreground": "#BEAF69"
+				"foreground": "#ceb95e"
 			}
 		},
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#BEAF69"
+				"foreground": "#ceb95e"
 			}
 		},
 		{
 			"scope": "constant.character",
 			"settings": {
-				"foreground": "#5F91C0"
+				"foreground": "#59a3e9"
 			}
 		},
 		{
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#BEAF69"
+				"foreground": "#ceb95e"
 			}
 		},
 		{
@@ -192,9 +192,9 @@
 		}
 	],
 	"semanticTokenColors": {
-		"newOperator":"#B1465D",
-		"stringLiteral":"#C77769",
-		"customLiteral": "#BEAF69",
+		"newOperator":"#df5f74",
+		"stringLiteral":"#df795f",
+		"customLiteral": "#ceb95e",
 		"numberLiteral": "#B5CE89",
 	}
 }
