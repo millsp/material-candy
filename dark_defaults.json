@@ -1,7 +1,7 @@
 {
 	"$schema": "vscode://schemas/color-theme",
 	"colors": {
-		"editor.background": "#171717",
+		"editor.background": "#111111",
 		"editor.foreground": "#BBBBBB",
 		"editor.inactiveSelectionBackground": "#3A3D41",
 		"editorIndentGuide.background": "#404040",
@@ -14,11 +14,11 @@
 		"input.placeholderForeground": "#A6A6A6",
 		"settings.textInputBackground": "#292929",
 		"settings.numberInputBackground": "#292929",
-		"menu.background": "#151515",
+		"menu.background": "#111111",
 		"menu.foreground": "#CCCCCC",
 		"statusBarItem.remoteForeground": "#FFF",
 		"statusBarItem.remoteBackground": "#16825D",
-        "sideBar.background": "#151515",
+        "sideBar.background": "#111111",
 		"sideBarSectionHeader.background": "#0000",
 		"sideBarSectionHeader.border": "#ccc3",
 		"editorWarning.foreground": "#443618",
