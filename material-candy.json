@@ -12,7 +12,7 @@
 				"entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
 			],
 			"settings": {
-				"foreground": "#C2B062"
+				"foreground": "#CAB96D"
 			}
 		},
 		{
@@ -81,7 +81,7 @@
 				"entity.name.operator"
 			],
 			"settings": {
-				"foreground": "#C34661",
+				"foreground": "#B3485F",
 				"fontStyle": "bold"
 			}
 		},
@@ -94,7 +94,7 @@
 				"entity.name.variable"
 			],
 			"settings": {
-				"foreground": "#64BDC5"
+				"foreground": "#67C0C8"
 			}
 		},
 		{
@@ -104,7 +104,7 @@
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#64BDC5",
+				"foreground": "#67C0C8",
 			}
 		},
 		{
@@ -113,7 +113,7 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#64BDC5"
+				"foreground": "#67C0C8"
 			}
 		},
 		{
@@ -128,7 +128,7 @@
 				"support.constant.color"
 			],
 			"settings": {
-				"foreground": "#CC6553"
+				"foreground": "#C77769"
 			}
 		},
 		{
@@ -143,7 +143,7 @@
 				"support.other.parenthesis.regexp"
 			],
 			"settings": {
-				"foreground": "#CC6553"
+				"foreground": "#C77769"
 			}
 		},
 		{
@@ -163,13 +163,13 @@
 				"keyword.control.anchor.regexp"
 			],
 			"settings": {
-				"foreground": "#C2B062"
+				"foreground": "#CAB96D"
 			}
 		},
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#C2B062"
+				"foreground": "#CAB96D"
 			}
 		},
 		{
@@ -181,7 +181,7 @@
 		{
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#C2B062"
+				"foreground": "#CAB96D"
 			}
 		},
 		{
@@ -192,9 +192,9 @@
 		}
 	],
 	"semanticTokenColors": {
-		"newOperator":"#C34661",
-		"stringLiteral":"#CC6553",
-		"customLiteral": "#C2B062",
+		"newOperator":"#B3485F",
+		"stringLiteral":"#C77769",
+		"customLiteral": "#CAB96D",
 		"numberLiteral": "#B5CE89",
 	}
 }
