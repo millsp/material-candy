@@ -12,7 +12,7 @@
 				"entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
 			],
 			"settings": {
-				"foreground": "#ceb95e"
+				"foreground": "#c7b45f"
 			}
 		},
 		{
@@ -53,7 +53,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#54c0a1"
+				"foreground": "#4fb497"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#54c0a1"
+				"foreground": "#4fb497"
 			}
 		},
 		{
@@ -163,13 +163,13 @@
 				"keyword.control.anchor.regexp"
 			],
 			"settings": {
-				"foreground": "#ceb95e"
+				"foreground": "#c7b45f"
 			}
 		},
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#ceb95e"
+				"foreground": "#c7b45f"
 			}
 		},
 		{
@@ -181,7 +181,7 @@
 		{
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#ceb95e"
+				"foreground": "#c7b45f"
 			}
 		},
 		{
@@ -192,9 +192,9 @@
 		}
 	],
 	"semanticTokenColors": {
-		"newOperator":"#df5f74",
+		"newOperator":"#df5f75",
 		"stringLiteral":"#df795f",
-		"customLiteral": "#ceb95e",
+		"customLiteral": "#c7b45f",
 		"numberLiteral": "#B5CE89",
 	}
 }
