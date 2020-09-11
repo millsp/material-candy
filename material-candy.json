@@ -12,7 +12,7 @@
 				"entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
 			],
 			"settings": {
-				"foreground": "#cab760"
+				"foreground": "#d3c277"
 			}
 		},
 		{
@@ -53,7 +53,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#4fb497"
+				"foreground": "#5ec39d"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#4fb497"
+				"foreground": "#5ec39d"
 			}
 		},
 		{
@@ -94,7 +94,7 @@
 				"entity.name.variable"
 			],
 			"settings": {
-				"foreground": "#5fc1df"
+				"foreground": "#71c5df"
 			}
 		},
 		{
@@ -104,7 +104,7 @@
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#5fc1df",
+				"foreground": "#71c5df",
 			}
 		},
 		{
@@ -113,7 +113,7 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#5fc1df"
+				"foreground": "#71c5df"
 			}
 		},
 		{
@@ -163,13 +163,13 @@
 				"keyword.control.anchor.regexp"
 			],
 			"settings": {
-				"foreground": "#cab760"
+				"foreground": "#d3c277"
 			}
 		},
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#cab760"
+				"foreground": "#d3c277"
 			}
 		},
 		{
@@ -181,7 +181,7 @@
 		{
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#cab760"
+				"foreground": "#d3c277"
 			}
 		},
 		{
@@ -194,7 +194,7 @@
 	"semanticTokenColors": {
 		"newOperator":"#df5f75",
 		"stringLiteral":"#df795f",
-		"customLiteral": "#cab760",
+		"customLiteral": "#d3c277",
 		"numberLiteral": "#B5CE89",
 	}
 }
